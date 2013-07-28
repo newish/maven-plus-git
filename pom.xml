@@ -3,7 +3,7 @@
     <groupId>com.myriad.sample</groupId>
     <artifactId>maven-plus-git</artifactId>
     <packaging>war</packaging>
-    <version>1.3-SNAPSHOT</version>
+    <version>1.3</version>
     <name>maven-plus-git</name>
     <url>http://maven.apache.org</url>
 
